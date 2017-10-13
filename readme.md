@@ -22,9 +22,10 @@ LESSで書かれています。LESSの知識のある方は、`boilerplate.less`
 * _normalize.less
     * <a href="http://necolas.github.com/normalize.css/">normalize.css</a>です。
 
+同じ名前で拡張子が`.scss`のファイルは、Sassの記法で書かれています。それぞれのファイルの内容はLESSの構成に準じます。
 
 # ライセンス
- 
-このCSSおよびLESSファイルはMITライセンスのもと自由に複製・再配布できます。
+
+このCSSおよびLESSやSassファイルはMITライセンスのもと自由に複製・再配布できます。
 記事本文の書式やコメント欄のスタイルなど、必要な部分だけをコピーして使ってもかまいません。
 このデザインテーマをもとにしたテーマの配布も自由です。
